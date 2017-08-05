@@ -2,7 +2,7 @@ from __future__ import print_function
 
 from enum import Enum
 
-
+'a comment added 5 aug 2017'
 EventType = Enum("EventType", "TICK BAR SIGNAL ORDER FILL SENTIMENT")
 
 
