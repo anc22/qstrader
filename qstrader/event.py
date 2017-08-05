@@ -3,7 +3,6 @@ from __future__ import print_function
 from enum import Enum
 
 'aaa'
-'bbb'
 EventType = Enum("EventType", "TICK BAR SIGNAL ORDER FILL SENTIMENT")
 
 
