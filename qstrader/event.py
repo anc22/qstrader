@@ -4,7 +4,6 @@ from enum import Enum
 
 'aaa'
 'bbb'
-'ccc'
 EventType = Enum("EventType", "TICK BAR SIGNAL ORDER FILL SENTIMENT")
 
 
